@@ -10,7 +10,7 @@ bandit==1.7.1
     # via -r requirements_dev.in
 black==21.11b1
     # via -r requirements_dev.in
-certifi==2021.10.8
+certifi==2022.12.7
     # via requests
 charset-normalizer==2.0.7
     # via requests
